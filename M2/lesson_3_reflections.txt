@@ -1,7 +1,23 @@
 Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
 -Para que outras pessoas possam colaborar com o projeto e que eu tenha acesso
 rapido e facil em diferentes dispositipos para continuar o trabalho no projeto.
+
 Por que você prefere efetuar pull de alterações manualmente do que deixar o 
 Git atualizar-se automaticamente com o seu repositório remoto?
 -Pois assim tenho um controle melhor e mais consciente das minhas alteracoes 
 em cada versao.
+
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto 
+armazenado localmente?
+-Pois assim fica mais facil ver as alteracoes e caso acontecer algum erro
+voltar a uma versao anterior.
+
+Como você colaboraria sem usar Git ou GitHub? 
+O que seria mais fácil e mais difícil?
+-Usaria email ou um site que armazena em nuvem o que deixaria o nosso trabalho
+bem mais cansativo e complicado.
+
+Quando você gostaria de fazer alterações em um branch separado, e não 
+diretamente no master? Quais são os benefícios de cada abordagem?
+-Quando se quer criar uma nova versão sem perder a anterior (sendo uma especie
+de modo), permitindo tambem trabalhar em colaboracao.
